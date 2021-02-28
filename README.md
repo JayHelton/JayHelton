@@ -16,6 +16,10 @@
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 
 
+### &nbsp;Checkout some of my work!
+- [BlueBirdie](https://github.com/JayHelton/bluebirdie): A lightweight wrapper for Twitter's API.
+- [Firebase FireLobby](https://github.com/JayHelton/firebase-firelobby): A tutorial for the ReactFire library.
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
