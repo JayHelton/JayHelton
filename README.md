@@ -1,7 +1,8 @@
 <h2>Hey there! I'm Jarrett Helton</h2>
 
 &nbsp;I am a Software Engineer doing Security, Authentication, and MFA things at &nbsp;![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0).\
-&nbsp;I love working on OSS libraries and tooling, especially in the Identity and Security domains.
+&nbsp;I love working on OSS libraries and tooling, especially in the Identity and Security domains.\
+&nbsp;You can find me tinkering on all the cool things!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -16,7 +17,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 
 
-### &nbsp;Checkout some of my work!
+### &nbsp;Checkout some of my personal work!
 - [BlueBirdie](https://github.com/JayHelton/bluebirdie): A lightweight wrapper for Twitter's API.
 - [Firebase FireLobby](https://github.com/JayHelton/firebase-firelobby): A tutorial for the ReactFire library.
 
