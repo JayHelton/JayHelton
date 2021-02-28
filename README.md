@@ -4,7 +4,7 @@
 &nbsp;I love working on OSS libraries and tooling, especially in the Identity and Security domains.\
 &nbsp;You can find me tinkering on all the cool things!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/jayhelton/jayhelton/master/Night-Coding.gif" align="right"/>
 
 ### 🍓 &nbsp;My Jam
 
