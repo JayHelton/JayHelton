@@ -21,6 +21,7 @@
 ### &nbsp;Checkout some of my personal work!
 - [BlueBirdie](https://github.com/JayHelton/bluebirdie): A lightweight wrapper for Twitter's API.
 - [Firebase FireLobby](https://github.com/JayHelton/firebase-firelobby): A tutorial for the ReactFire library.
+- [My Gists](https://gist.github.com/JayHelton): Random snippets I decided to keep.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
