@@ -1,7 +1,7 @@
 <h2>Hey there! I'm Jarrett Helton</h2>
 
 &nbsp;I am a Software Engineer specializing in IAM, Authentication, and Application Security.\
-&nbsp;Doing Security, Authentication, and MFA things at &nbsp;![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0).\
+&nbsp;Doing Security, Authentication, and MFA things at Cisco and formerly &nbsp;![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0).\
 &nbsp;Offensive security and hacking hobbyist.\
 &nbsp;I love working on OSS libraries and tooling, especially in the Identity and Security domains.\
 &nbsp;You can find me tinkering on any cool thing that will let me!
