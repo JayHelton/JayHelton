@@ -9,6 +9,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/jayhelton/jayhelton/master/Night-Coding.gif" align="right"/>
 
 ### 🍓 &nbsp;My Jam
+#### I have been hard at work building out critical features and infrastructure for Cisco, so these are a little out-dated.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
